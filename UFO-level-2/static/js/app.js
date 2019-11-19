@@ -82,9 +82,3 @@ function handleClick() {
 
 // We can use the `on` function in d3 to attach an event to the handler function
 inputButton.on("click", handleClick);
-
-//////
-// 
-// Try copying filter function and nesting inside itself, using if statements to check for filled fields
-// You'll also need to copy the filter box code in the html
-// Remember to switch the tags on the copied functions to check different input boxes and search different columns

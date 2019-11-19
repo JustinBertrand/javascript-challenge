@@ -223,3 +223,13 @@ select {
     opacity: 1;
   }
 }
+
+#center-me {
+  padding: 15px;
+  padding-top: 0px;
+}
+
+#filter-btn {
+  background-color: #1b3146;
+  color: aliceblue;
+}
